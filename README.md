@@ -1,4 +1,4 @@
-## Hi! 😊
+# Hi! 😊
 
 I'm kinda new to Github but I do things in the Roblox ecosystem! I'm also excited to play with other technologies!
 
