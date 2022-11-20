@@ -1,4 +1,4 @@
-## Hi, I'm cyff! 😎😋
+## hi, i'm cyff! 😊
 
 I'm kinda new to Github but I do things in the Roblox ecosystem! I also like playing with other technologies sometimes!
 
