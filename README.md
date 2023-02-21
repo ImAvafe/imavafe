@@ -1,7 +1,7 @@
-## Hi, I'm Ava! 😊
+## [Hi, I'm Ava!](https://avafe.me) 🤗
 
-I'm kinda new to Github but I do things in the Roblox ecosystem! I also like playing with other technologies sometimes!
-
-<b>[I have a website!](https://avafe.me)</b>
+- 🎮 I make games and FOSS utilities on Roblox!
+- 💻 On the side I'm interested in web development
+- 😮‍💨 I have too many projects and not enough at the same time..
 
 ![cyff's GitHub stats](https://github-readme-stats.vercel.app/api?username=imavafe&count_private=true&show_icons=true&theme=jolly)
