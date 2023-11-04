@@ -1,6 +1,6 @@
 ## [Hi, I'm Ava!](https://avafe.me) 🤗
 
-- 🎮 I make games and FOSS utilities on Roblox!
+- 🎮 I make games and software on Roblox!
 - 💻 On the side I'm interested in web development
 - 😮‍💨 I have too many projects and not enough at the same time..
 
