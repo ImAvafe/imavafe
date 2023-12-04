@@ -1,7 +1,5 @@
 ## [Hi, I'm Ava!](https://avafe.me) 🤗
 
-- 🎮 I make games and software on Roblox!
-- 💻 On the side I'm interested in web development
-- 😮‍💨 I have too many projects and not enough at the same time..
+![My Skills](https://simpleskill.icons.workers.dev/svg?i=robloxstudio,visualstudiocode,git,blender,figma,html5,css3)
 
 ![cyff's GitHub stats](https://github-readme-stats.vercel.app/api?username=imavafe&count_private=true&show_icons=true&theme=jolly)
