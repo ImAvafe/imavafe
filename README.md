@@ -1,4 +1,4 @@
-## [Hi, I'm Ava](https://avafe.me) ✌️
+## [Hi, I'm Ava ✌️](https://avafe.me)
 
 [![My Skills](https://skillicons.dev/icons?i=robloxstudio,vscode,git,blender,figma,html,css)](https://skillicons.dev)
 
