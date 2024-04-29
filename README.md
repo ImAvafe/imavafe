@@ -1,5 +1,11 @@
 # [![Avafe](https://github.com/ImAvafe/imavafe/assets/65048459/d752cfe5-7e70-4d9f-8cde-fc7d862d09d0)](https://avafe.me)
 
+Hi, I'm Ava! I'm a game developer and FOSS fanatic, primarily honed in on programming and UI design.
+<br>
+I mainly work on the Roblox platform, open-sourcing whatever I can from my tech stack here on Github!
+
+<br>
+
 [![My Skills](https://skillicons.dev/icons?i=robloxstudio,vscode,git,blender,figma,html,css)](https://skillicons.dev)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=imavafe&count_private=true&show_icons=true&theme=jolly)
+<a href="https://discord.gg/fyeYey62Dm"><img src="https://dcbadge.vercel.app/api/server/fyeYey62Dm">
