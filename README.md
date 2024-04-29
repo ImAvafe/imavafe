@@ -4,7 +4,9 @@ Hi, I'm Ava! I'm a game developer and FOSS fanatic, primarily honed in on progra
 <br>
 I mainly work on the Roblox platform, open-sourcing whatever I can from my tech stack here on Github!
 
-<br>
+[Visit avafe.me](https://avafe.me)
+
+#
 
 [![My Skills](https://skillicons.dev/icons?i=robloxstudio,vscode,git,blender,figma,html,css)](https://skillicons.dev)
 
