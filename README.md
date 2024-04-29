@@ -10,4 +10,13 @@ I mainly work on the Roblox platform, open-sourcing whatever I can from my tech 
 
 [![My Skills](https://skillicons.dev/icons?i=robloxstudio,vscode,git,blender,figma,html,css)](https://skillicons.dev)
 
+<details>
+  <summary>Github Stats</summary>
+  
+  <a href="#">![Github stats](https://github-readme-stats.vercel.app/api?username=imavafe&theme=material-palenight&count_private=true&hide_border=true&line_height=20)</a>
+  <a href="#">![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=imavafe&layout=compact&theme=material-palenight&count_private=true&hide_border=true)</a>
+</details>
+
+# 
+
 <a href="https://discord.gg/fyeYey62Dm"><img src="https://dcbadge.vercel.app/api/server/fyeYey62Dm">
