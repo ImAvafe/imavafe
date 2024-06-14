@@ -1,7 +1,7 @@
 # [![Avafe](https://github.com/ImAvafe/imavafe/assets/65048459/d752cfe5-7e70-4d9f-8cde-fc7d862d09d0)](https://avafe.me)
 
 Hi, I'm Ava! I'm a game developer and FOSS fanatic, primarily honed in on programming and UI design.
-<br>
+
 I mainly work on the Roblox platform, open-sourcing whatever I can from my tech stack here on Github!
 
 [Visit avafe.me](https://avafe.me)
