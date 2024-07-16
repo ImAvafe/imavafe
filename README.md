@@ -15,6 +15,6 @@ I mainly work on the Roblox platform, open-sourcing whatever I can from my tech 
   <a href="#">![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=imavafe&layout=compact&theme=material-palenight&count_private=true&hide_border=true)</a>
 </details>
 
-[![My Skills](https://go-skill-icons.vercel.app/api/icons?i=robloxstudio,vscode,luau,git,blender,figma,svelte,tailwind)](https://skillicons.dev)
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=robloxstudio,vscode,luau,git,blender,figma,svelte,tailwind)
 
 <a href="https://discord.gg/fyeYey62Dm"><img src="https://dcbadge.vercel.app/api/server/fyeYey62Dm">
