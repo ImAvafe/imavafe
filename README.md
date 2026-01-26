@@ -1,11 +1,10 @@
 # Hi, I'm Ava! 👋
 
-I'm a games and software developer, focused on programming, design, and systems. Much of my work is housed under my studio, [Loneka](https://loneka.com) (100B Sess.), which produces leading tools for game developers. I've also worked with [HD Admin](https://avafe.me/work/hd-admin) (100B+ Sess.), and friends and contributors globally.
+I'm a 17 y/o software developer focused on programming, design, and systems. Much of my work is housed under my studio, [Loneka](https://loneka.com) (100B Sess.), which produces leading tools for game developers. I've also led the frontend for [HD Admin](/work/hd-admin) (100B+ Sess.) and made [major contributions](https://github.com/imavafe) to Roblox's open-source ecosystem.
 
-When I'm not working or studying, I love spending time with friends, walking, and going out to events! I also enjoy thinking about design in a broader sense, and how that shapes aspects of the world around us.
+# 
 
-# Learn more 🔎
-
-- Explore my [work](https://avafe.me/work)
-- Read my [articles](https://avafe.me/blog)
-- [Contact or follow me](https://avafe.me/links)
+<a href="https://avafe.me/"><img src="https://img.shields.io/badge/avafe.me-%239f84ff?style=for-the-badge&logo=inertia&logoColor=white " /></a>
+<a href="https://avafe.me/bsky"><img src="https://img.shields.io/badge/Bluesky-0285FF?logo=bluesky&logoColor=fff&style=for-the-badge" /></a>
+<a href="https://avafe.me/x"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" /></a>
+<a href="https://avafe.me/discord"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"></img></a>
