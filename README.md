@@ -1,6 +1,6 @@
 # Hi, I'm Ava! 👋
 
-I'm a 17 y/o software developer focused on programming, design, and systems. Much of my work is housed under my studio, [Loneka](https://loneka.com) (100B Sess.), which produces leading tools for game developers. I've also led the frontend for [HD Admin](/work/hd-admin) (100B+ Sess.) and made [major contributions](https://github.com/imavafe) to Roblox's open-source ecosystem.
+I'm an end-to-end software engineer focused on design. I founded [Loneka](https://loneka.com), (100B Sess.) producing leading game development tools; led the frontend for [HD Admin](/work/hd-admin); (100B+ Sess.) and made a number of [open-source contributions](https://github.com/imavafe).
 
 # 
 
