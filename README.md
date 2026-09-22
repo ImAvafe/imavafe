@@ -1,6 +1,6 @@
 # Hi, I'm Ava! 👋
 
-I'm an end-to-end software engineer focused on design. I founded [Loneka](https://loneka.com), (100B Sess.) producing leading game development tools; led the frontend for [HD Admin](/work/hd-admin); (100B+ Sess.) and made a number of [open-source contributions](https://github.com/imavafe).
+I’m a game developer and design engineer. I’ve founded Loneka, producing leading game development tools; led the frontend for HD Admin; and created numerous indie games over the years.
 
 # 
 
